@@ -9032,9 +9032,9 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("../images/background-img/bmg_01.jpg") no-repeat center center;
+  background: url("../images/home-img.jpg") no-repeat center center;
   background-size: cover;
-  background-position: 70%;
+  background-position: top;
   height: 100vh;
   min-height: 480px;
 }
