@@ -1,6 +1,6 @@
 $('#example').countdown({
     date: '04/22/2023 00:00:00'
-    offset: '-5'
+    offset: -5
     // date: '11/20/2020 00:00:00'
 }, function () {
     // alert('Merry Christmas!');
